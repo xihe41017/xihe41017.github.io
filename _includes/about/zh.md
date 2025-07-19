@@ -42,5 +42,5 @@
 
 ---
 
-### 谢谢你访问我的网站 本站power by GitHub Pages
-
+### 谢谢你访问我的网站 
+#### 本站power by GitHub Pages 基于[Hux Blog](https://huangxuan.me) 
