@@ -36,7 +36,7 @@ These may not be grand accomplishments, but they hold great personal significanc
 
 [Twitter (rarely active)](https://twitter.com/xihe1017) 
 
-[Luogu](https://www.luogu.com.cn/user/1380750) 做了一点点的题
+[Luogu](https://www.luogu.com.cn/user/1380750) solved a few problems
 
 WeChat: xihe41017 QQ: 1315753738
 
