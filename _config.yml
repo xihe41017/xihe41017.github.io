@@ -3,7 +3,7 @@ title: xihe Blog
 SEOTitle: 西赫xihe的博客 | xihe Blog
 header-img: img/home-bg.jpg
 email: xihe41017@outlook.com
-description: "这里是 @西赫xihe 的个人博客，一起向前冲 | 人生啊能不能放过我这一次"
+description: "这里是 @西赫xihe 的个人博客，一起向前冲 | 人生啊~能不能放过我这一次！"
 keyword: "Blog"
 url: "https://xihe41017.top" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -91,5 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "西赫xihe", href: "https://xihe41017.top/" }
+    { title: "西赫xihe", href: "https://xihe41017.top/" },
+    { title: "xia865", href: "https://xia865.github.io/" }
   ]
